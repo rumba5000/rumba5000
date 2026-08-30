@@ -29,4 +29,4 @@ working toward blue-team / SOC work, with an eye on where security meets risk & 
 
 ### 📫 Reach me
 - LinkedIn: [Ebrima Dem](https://www.linkedin.com/in/ebrima-dem-5495542a4/)
-- X: [@rumba526](https://x.com/{{rumba526)
+- X: [@rumba526](https://x.com/rumba526)
