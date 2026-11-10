@@ -1,6 +1,6 @@
-# Hi, I'm Ebe 👋
+# Hi, I'm Ebrima 👋
 
-Cybersecurity student at the **University of Oregon** (minor in Business).
+Cybersecurity student at the **University of Oregon**.
 working toward blue-team / SOC work, with an eye on where security meets risk & business.
 
 ---
